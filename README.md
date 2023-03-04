@@ -8,7 +8,10 @@ https://stackoverflow.com/questions/53078306/populate-a-database-with-testcontai
 https://www.baeldung.com/junit-5-test-order  
 https://www.atomicjar.com/2022/08/testcontainers-and-junit-integration/  
 https://www.testcontainers.org/test_framework_integration/manual_lifecycle_control/  
-Last 2 links are great reads - have a look at them.
+Last 2 links are great reads - have a look at them.  
+
+Toxy Proxy example
+https://github.com/eddumelendez/testcontainers-samples/blob/main/spring-boot-r2dbc-postgresql-chaos/src/test/java/com/example/springbootr2dbcpostgresqlchaos/SpringBootR2dbcPostgresqlChaosApplicationTests.java#L41-L46
 
 # USAGE
 There are different ways to do the configurations, check the files in tests
